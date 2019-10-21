@@ -3,8 +3,8 @@ const sha1 = require('sha1')
 
 const config = {
     wechat: {
-        appID: 'wxfb4cb79b59b19ef9',
-        appsecret: 'aed0886151622b3c867dc5c45a8f07c6',
+        appID: '',
+        appsecret: '',
         token: 'clipperswaschampionthisseason',
     }
 }

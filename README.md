@@ -1,1 +1,1 @@
-### wechat check by koa
+### wechat check login info by koa
